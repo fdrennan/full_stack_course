@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Form Demo</title>
+</head>
+<body>
+    <h1>Login</h1>
+    <form action="http://wikipedia.org" method="get">
+        <label for="email">Username:</label>
+        <input id = "email" type="email"     placeholder="email" required>
+        <label for="password">Password:</label>
+        <input id = "password" type="password" placeholder="password" required>
+        <input type="submit">
+    </form>
+
+    <p>Do you prefer cats or dogs?</p>
+    <form>
+        <label for= "dogs">Dogs: </label>
+        <input name = "petChoice" id = "dogs" type="radio" value="DOGS">
+        <label for= "cats">Cats: </label>
+        <input name = "petChoice" id = "cats" type="radio" value="CATS">
+
+        <p>What is your favorite color?</p>
+        <select name="color" id="color">
+            <option value="red">Red</option>
+            <option value="green">Green</option>
+            <option value="purple">Purple</option>
+        </select>
+
+        <textarea name="textarea" id="textarea" cols="30" rows="10"></textarea>
+        <button>Go!</button>
+    </form>
+
+<h1>Exercise Form</h1>
+    <form>
+        <div>
+            <label for="firstname">First Name:</label>
+            <input type="text" id="firstname" placeholder="John">
+            <label for="lastname">Last Name:</label>
+            <input type="text" id="lastname" placeholder = "Doe">
+        </div>
+
+        <div>
+            <label for= "male">Male: </label>
+            <input name = "sex" id = "male" type="radio" value="male">
+            <label for= "female">Female: </label>
+            <input name = "sex" id = "female" type="radio" value="female">
+            <label for= "other">Other: </label>
+            <input name = "sex" id = "other" type="radio" value="other">
+
+        </div>
+
+        <div>
+            <label for= "email">Email: </label>
+            <input name = "email" id = "email" type="email" placeholder="stuff@domain.com">
+            <label for= "password" >Password: </label>
+        </div>
+
+        <div>
+            <input name = "password" id = "password" type="password" minlength="10">
+            <label for="birthday">Birthday:</label>
+            <input name = "birthday" id="birthday" type="date">
+        </div>
+
+        <div>
+            <label for="checkbox">Do you agree to the terms and conditions?</label>
+            <input type="checkbox" id = "checkbox">
+        </div>
+
+        <button>
+            Go!
+        </button>
+    </form>
+</body>
+</html>
+
