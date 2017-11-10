@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ad3b675-5691-44a6-8037-23d90a6265d6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercise_three/images/bulbasaur.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercise_three/images/pokemon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercise_three/css/css.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exercise_three/exercise_three.html" afterPath="$PROJECT_DIR$/exercise_three/exercise_three.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,8 +20,8 @@
       <file leaf-file-name="exercise_three.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/exercise_three/exercise_three.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="141">
-              <caret line="62" column="63" lean-forward="false" selection-start-line="62" selection-start-column="63" selection-end-line="62" selection-end-column="63" />
+            <state relative-caret-position="127">
+              <caret line="112" column="13" lean-forward="true" selection-start-line="112" selection-start-column="13" selection-end-line="112" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -147,12 +144,12 @@
       <option name="presentableId" value="Default" />
       <updated>1510180115500</updated>
       <workItem from="1510180116768" duration="6324000" />
-      <workItem from="1510267138050" duration="3582000" />
+      <workItem from="1510267138050" duration="3882000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9906000" />
+    <option name="totallyTimeSpent" value="10206000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -286,8 +283,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/exercise_three/exercise_three.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="62" column="63" lean-forward="false" selection-start-line="62" selection-start-column="63" selection-end-line="62" selection-end-column="63" />
+        <state relative-caret-position="127">
+          <caret line="112" column="13" lean-forward="true" selection-start-line="112" selection-start-column="13" selection-end-line="112" selection-end-column="13" />
           <folding />
         </state>
       </provider>
